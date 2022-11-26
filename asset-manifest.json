@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/resiazablegraph/static/css/main.1e3687c8.css",
-    "main.js": "/resiazablegraph/static/js/main.57978910.js",
+    "main.js": "/resiazablegraph/static/js/main.325e828f.js",
     "static/js/787.5861ff30.chunk.js": "/resiazablegraph/static/js/787.5861ff30.chunk.js",
     "index.html": "/resiazablegraph/index.html",
     "main.1e3687c8.css.map": "/resiazablegraph/static/css/main.1e3687c8.css.map",
-    "main.57978910.js.map": "/resiazablegraph/static/js/main.57978910.js.map",
+    "main.325e828f.js.map": "/resiazablegraph/static/js/main.325e828f.js.map",
     "787.5861ff30.chunk.js.map": "/resiazablegraph/static/js/787.5861ff30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e3687c8.css",
-    "static/js/main.57978910.js"
+    "static/js/main.325e828f.js"
   ]
 }
